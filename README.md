@@ -47,6 +47,11 @@ El objetivo de esta sección es ayudar a entender los conceptos de polimorfismo,
 
 De igual manera es simular un sistema realista de gestión portuaria que permita la manipulación eficiente de contenedores y barcos. La simulación proporciona una herramienta valiosa para la comprensión y optimización de operaciones portuarias.
 
+## [Explicación de Archivos](#explicación-de-archivos)
+
+> [!NOTE]
+> Para usar el archivo es con consola de preferencia ./main.cpp Archivo_Entrada.txt Archivo_Salida.txt
+
 # ¿ Quién Soy?
 
 ![](images/logotecmty.png)
