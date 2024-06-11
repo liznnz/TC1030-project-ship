@@ -3,6 +3,7 @@
 ### Índice
 
 1. [Introducción](#introducción)
+2. [Funcionamiento del Sistema](#funcionamiento-del-sistema)
 
 ## [Introducción](#introducción)
 
