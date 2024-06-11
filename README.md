@@ -4,6 +4,7 @@
 
 1. [Introducción](#introducción)
 2. [Funcionamiento del Sistema](#funcionamiento-del-sistema)
+3. [Objetivo](#objetivo)
 
 ## [Introducción](#introducción)
 
@@ -32,6 +33,19 @@ El sistema se compone de varias clases clave, cada una con su propia responsabil
 
 ## [Funcionamiento del sistema](#funcionamiento-del-sistema)
 
+El archivo [`main.cpp`](https://github.com/liznnz/TC1030-project-ship/blob/main/main.cpp)  se encarga de ejecutar las operaciones principales. Este archivo lee datos de un archivo de entrada para crear y gestionar los objetos (contenedores, barcos y puertos), y simula las acciones necesarias para la gestión portuaria. Las operaciones incluyen:
+
+- Creación de contenedores y barcos: Basado en los datos de entrada.
+- Carga y descarga de contenedores: En diferentes barcos según las reglas de capacidad y tipo de contenedor.
+- Navegación entre puertos: Basado en la disponibilidad de combustible y la distancia.
+- Reabastecimiento de combustible: Para asegurar que los barcos puedan realizar sus viajes.
+- Actualización y monitoreo del estado: Los resultados se imprimen en un formato detallado que muestra el estado actual de los puertos y barcos.
+
+## [Objetivo](#objetivo)
+
+El objetivo de esta sección es ayudar a entender los conceptos de polimorfismo, clases, objetos, métodos, atributos y más, integrándolos de manera que se comprendan fácil y claramente.
+
+De igual manera es simular un sistema realista de gestión portuaria que permita la manipulación eficiente de contenedores y barcos. La simulación proporciona una herramienta valiosa para la comprensión y optimización de operaciones portuarias.
 
 # ¿ Quién Soy?
 
